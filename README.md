@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+cd my-interactive-site
+git init
+git add .
+git commit -m "Initial commit - Shatakshi's interactive site"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/shatakshi-personal-site.git
+git push -u origin main
